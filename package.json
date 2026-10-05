@@ -1,0 +1,9 @@
+{
+  "name": "devops-training-q2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node test/site.test.js",
+    "build": "node scripts/build.js"
+  }
+}
